@@ -1,4 +1,4 @@
-# CodeFixer AI
+# CodeFixer AI - Frontend
 
 ## Overview
-AI-powered code review & bug detection tool.
+Next.js frontend for AI-powered code review & bug detection.
